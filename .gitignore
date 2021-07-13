@@ -1,0 +1,5 @@
+node_modules/
+.next/
+solidity_info.txt
+contract.info
+delted.js
